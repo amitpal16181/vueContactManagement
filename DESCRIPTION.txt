@@ -1,0 +1,6 @@
+This a Contact Management System created using VueJS and JavaScript. VueJS is used to create the front-end of the website. The functionalities of the application is thatthe user can view th contacts, add new contacts, modify previous contacts or even delete them. 
+To make the application work properly, we need to download additional libraries such as bootstrap for styling, fontawesome for icons and axios for connection with the server. In-built routing has been used to route between different components of the application such as View, Edit, Update, etc.
+
+Json-server has been used as a server and data storage where data has been stored in json format. This helped in making a local test application without creating and maintaining a full-fledge server and also getting basic functionalities a database provides such as providing Ids to new addition in the database, updating database accorin to changes, etc.
+
+The knowledge of NodeJS is necessary to start working on the application as Node has been used to create the project and add required libraries during the development.
